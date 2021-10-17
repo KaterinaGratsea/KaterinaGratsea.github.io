@@ -55,4 +55,4 @@ highlight_name: true
 ---
 The perceptron -the fundamental building block of neural networks - is an inherently classical object. The recent advances in quantum technologies make it an immediate question, if and how one can design a quantum perceptron in order to harvest a possible quantum advantage. In my research project, I will address how to design and analyze quantum perceptrons, and in turn use them to design and analyze quantum neural networks
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "file:///home/kgratsea/Downloads/CV_GRATSEA.pdf" "newtab" >}}resumé{{< /staticref >}}.
