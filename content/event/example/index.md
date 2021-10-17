@@ -1,8 +1,41 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: >-
+  Near-term quantum devices can be used to build quantum machine learning
+  models,
+
+  such as quantum kernel methods and quantum neural networks (QNN) to perform
+
+  classification tasks. There have been many proposals on how to use variational quantum
+
+  circuits as quantum perceptrons or as QNNs. The aim of this work is to systematically
+
+  compare different QNN architectures and to evaluate their relative expressive power
+
+  with a teacher-student scheme. Specifically, the teacher model generates the datasets
+
+  mapping random inputs to outputs which then have to be learned by the student
+
+  models. This way, we avoid training on arbitrary data sets and allow us to compare
+
+  the learning capacity of different models directly via the loss, the prediction map, the
+
+  accuracy and the relative entropy between the prediction maps. We focus particularly
+
+  on a quantum perceptron model inspired by the recent work of Tacchino et. al. [1] and
+
+  compare it to the data re-uploading scheme that was originally introduced by PerezSalinas et. al. [2]. We discuss alterations of the perceptron model and the formation
+
+  of deep QNN to better understand the role of hidden units and non-linearities in these
+
+  architectures.
+
+  [1] F. Tacchino, C. Macchiavello, D. Gerace, and D. Bajoni, npj Quantum Information
+
+  5 (2019), 10.1038/s41534-019-0140-4.
+
+  [2] A. Perez-Salinas, A. Cervera-Lierta, E. Gil-Fuster, and J. I. Latorre, Quantum 4,
+
+  226 (2020).
 slides: Teacher-student
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
@@ -38,6 +71,3 @@ image:
   focal_point: Right
 url_code: ""
 ---
-Near-term quantum devices can be used to build quantum machine learning models, such as quantum kernel methods and quantum neural networks (QNN) to perform classification tasks. There have been many proposals on how to use variational quantum circuits as quantum perceptrons or as QNNs. The aim of this work is to systematically compare different QNN architectures and to evaluate their relative expressive power with a teacher-student scheme. Specifically, the teacher model generates the datasets mapping random inputs to outputs which then have to be learned by the student models. This way, we avoid training on arbitrary data sets and allow us to compare the learning capacity of different models directly via the loss, the prediction map, the accuracy and the relative entropy between the prediction maps. We focus particularly on a quantum perceptron model inspired by the recent work of Tacchino et. al. \[1] and compare it to the data re-uploading scheme that was originally introduced by PerezSalinas et. al. \[2]. We discuss alterations of the perceptron model and the formation of deep QNN to better understand the role of hidden units and non-linearities in these architectures. \
-\[1] F. Tacchino, C. Macchiavello, D. Gerace, and D. Bajoni, npj Quantum Information 5 (2019), 10.1038/s41534-019-0140-4. \
-\[2] A. Perez-Salinas, A. Cervera-Lierta, E. Gil-Fuster, and J. I. Latorre, Quantum 4, 226 (2020).
