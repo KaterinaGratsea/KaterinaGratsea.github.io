@@ -2,7 +2,7 @@
 title: Aikaterini (Katerina) Gratsea
 role: Marie Skłodowska-Curie PhD fellow on Quantum Perceptrons and Quantum
   Neural Networks.
-avatar_filename: aikaterini_gratsea-2.jpg
+avatar_filename: photo.jpg
 bio: ""
 interests:
   - Quantum machine learning
