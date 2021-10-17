@@ -1,73 +1,43 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
+  urna, suscipit quis sapien eu, pulvinar tempor diam.
+slides: Teacher-student
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: Exploring Quantum Perceptron and Quantum Neural Network structures with a
+  teacher-student scheme
+location: Warsaw
+date: 2030-06-01T13:00:00Z
+date_end: 2030-06-01T15:00:00Z
+all_day: false
+event: "Summer school: Machine Learning in Quantum Physics and Chemistry"
+event_url: https://szkoly.idub.uw.edu.pl/
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+  - icon: youtube
+    icon_pack: fab
+    name: Follow
+    url: https://www.youtube.com/watch?v=cXdO3ws0Bwo&ab_channel=CentreforAMOPhysicsatUniversityofWarsaw
+publishDate: 2021-08-25T23:00:00.000Z
+tags: []
 projects:
-- example
+  - Teacher-student
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  focal_point: Right
+url_code: ""
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Near-term quantum devices can be used to build quantum machine learning models, such as quantum kernel methods and quantum neural networks (QNN) to perform classification tasks. There have been many proposals on how to use variational quantum circuits as quantum perceptrons or as QNNs. The aim of this work is to systematically compare different QNN architectures and to evaluate their relative expressive power with a teacher-student scheme. Specifically, the teacher model generates the datasets mapping random inputs to outputs which then have to be learned by the student models. This way, we avoid training on arbitrary data sets and allow us to compare the learning capacity of different models directly via the loss, the prediction map, the accuracy and the relative entropy between the prediction maps. We focus particularly on a quantum perceptron model inspired by the recent work of Tacchino et. al. \[1] and compare it to the data re-uploading scheme that was originally introduced by PerezSalinas et. al. \[2]. We discuss alterations of the perceptron model and the formation of deep QNN to better understand the role of hidden units and non-linearities in these architectures. \
+\[1] F. Tacchino, C. Macchiavello, D. Gerace, and D. Bajoni, npj Quantum Information 5 (2019), 10.1038/s41534-019-0140-4. \
+\[2] A. Perez-Salinas, A. Cervera-Lierta, E. Gil-Fuster, and J. I. Latorre, Quantum 4, 226 (2020).
