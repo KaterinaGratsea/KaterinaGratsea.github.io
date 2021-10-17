@@ -8,6 +8,6 @@ weight: 20
 title: Biography
 design:
   background:
-    image: aikaterini_gratsea.jpg
+    image: white_background.jpg
 ---
 Marie Skłodowska-Curie PhD fellow on Quantum Perceptrons and Quantum Neural Networks.
