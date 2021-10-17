@@ -16,6 +16,16 @@ social:
     link: gratsea.katerina@gmail.com
   - display:
       header: false
+    link: https://scholar.google.com/citations?user=Oq2iMc4AAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
+  - display:
+      header: false
+    link: https://github.com/KaterinaGratsea/KaterinaGratsea.github.io
+    icon_pack: fab
+    icon: github
+  - display:
+      header: false
     link: https://twitter.com/AGratsea
     icon_pack: ai
     icon: twitter
@@ -26,16 +36,6 @@ social:
     icon: linkedin
   - display:
       header: false
-    link: https://github.com/KaterinaGratsea/KaterinaGratsea.github.io
-    icon_pack: fab
-    icon: github
-  - display:
-      header: false
-    link: https://scholar.google.com/citations?user=Oq2iMc4AAAAJ&hl=en
-    icon_pack: ai
-    icon: google-scholar
-  - display:
-      header: false
     link: https://orcid.org/my-orcid?orcid=0000-0001-8935-796X
     icon_pack: ai
     icon: orcid
@@ -43,12 +43,12 @@ organizations:
   - name: ICFO
 education:
   courses:
-    - course: Physics
-      institution: University of Crete
-      year: 2017
     - course: Advanced Physics
       institution: University of Crete
       year: 2018
+    - course: Physics
+      institution: University of Crete
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
