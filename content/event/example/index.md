@@ -42,8 +42,8 @@ summary: An example talk using Wowchemy's Markdown slides feature.
 title: Exploring Quantum Perceptron and Quantum Neural Network structures with a
   teacher-student scheme
 location: Warsaw
-date: 2030-06-01T13:00:00Z
-date_end: 2030-06-01T15:00:00Z
+date: 2030-06-01T13:00:00.000Z
+date_end: 2030-06-01T15:00:00.000Z
 all_day: false
 event: "Summer school: Machine Learning in Quantum Physics and Chemistry"
 event_url: https://szkoly.idub.uw.edu.pl/
