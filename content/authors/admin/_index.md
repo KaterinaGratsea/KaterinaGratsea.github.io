@@ -1,46 +1,57 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Aikaterini (Katerina) Gratsea
+role: Marie Skłodowska-Curie PhD fellow on Quantum Perceptrons and Quantum
+  Neural Networks.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum machine learning
+  - Quantum Neural Networks
+  - Reinforcement learning
+  - Entanglement
+  - Quantum walks
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
+    link: gratsea.katerina@gmail.com
+  - display:
+      header: false
+    link: https://twitter.com/AGratsea
+    icon_pack: ai
+    icon: twitter
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/aikaterini-katerina-gratsea-a42793139/
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    icon: linkedin
+  - display:
+      header: false
+    link: https://github.com/KaterinaGratsea/KaterinaGratsea.github.io
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon: github
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=Oq2iMc4AAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
+  - display:
+      header: false
+    link: https://orcid.org/my-orcid?orcid=0000-0001-8935-796X
+    icon_pack: ai
+    icon: orcid
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ICFO
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Physics
+      institution: University of Crete
+      year: 2017
+    - course: Advanced Physics
+      institution: University of Crete
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
 ---
-Marie Skłodowska-Curie PhD fellow on Quantum Perceptrons and Quantum Neural Networks.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
