@@ -42,13 +42,7 @@ social:
 organizations:
   - name: ICFO
 education:
-  courses:
-    - course: Advanced Physics
-      institution: University of Crete
-      year: 2018
-    - course: Physics
-      institution: University of Crete
-      year: 2017
+  courses: []
 email: ""
 superuser: true
 highlight_name: true
