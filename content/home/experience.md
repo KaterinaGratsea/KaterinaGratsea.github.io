@@ -31,5 +31,5 @@ subtitle: null
 design:
   columns: "2"
   background:
-    image: screenshot-from-2021-10-17-22-36-09.png
+    image: ""
 ---
