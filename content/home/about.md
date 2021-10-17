@@ -5,7 +5,7 @@ author: admin
 widget_id: bio
 headless: true
 weight: 20
-title: Current research focus
+title: Current Research Focus
 design:
   background:
     image: ""
