@@ -38,13 +38,13 @@ abstract: >-
   [2] A. Perez-Salinas, A. Cervera-Lierta, E. Gil-Fuster, and J. I. Latorre, Quantum 4,
 
   226 (2020).
-location: Warsaw
+location: "Summer school: Machine Learning in Quantum Physics and Chemistry"
 date: 2021-08-26T08:28:13.263Z
 date_end: 2021-08-25T21:00:00.000Z
 all_day: false
 links:
   - url: https://szkoly.idub.uw.edu.pl/
-event: "Summer school: Machine Learning in Quantum Physics and Chemistry"
+event: "Summer school: Machine Learning in Quantum Physics and Chemistry, Warsaw"
 event_url: https://szkoly.idub.uw.edu.pl/
 publishDate: 2021-12-12T16:28:13.297Z
 draft: false
